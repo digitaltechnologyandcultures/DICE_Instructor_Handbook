@@ -104,7 +104,7 @@ Imagine that their keyboard is made of lava. LAVA! You wouldn't touch it, right?
 
 Whenever you take over their keyboard, learners are going to drift away. This can be offputting and even scary.
 
-We're sure you can explain what needs to be done and instruct them with your words only (it's actually a cool exercise for you too!). If you absolutely, ultimately must type something on their computer — chances are you don't — ask whether that is okay with them and explain what are you doing.
+We're sure you can explain what needs to be done and instruct them with your words only (it's actually a cool exercise for you too!). 
 
 ## Show them how they can teach themselves
 
