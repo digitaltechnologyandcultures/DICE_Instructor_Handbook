@@ -1,4 +1,4 @@
-My Awesome Book
+WATS Instructor Handbook
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Welcome to the Instructor Handbook for the Web, Application and Technology Studies (WATS) program at Seattle University. This book provides guidelines and sets expectations for people teaching courses as a part of WATS programs. 
