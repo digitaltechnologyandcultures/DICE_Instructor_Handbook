@@ -18,9 +18,11 @@ For your learners this may be the hardest thing they've ever done. Telling them 
 
 ### No feigning surprise
 
-Don't act surprised when people say they don't know something. Not knowing something (technical or not) is totally acceptable at Django Girls.
+Don't act surprised when people say they don't know something. Not knowing something (technical or not) is totally acceptable.
 
 Be prepared even for questions like: "What is a directory?" or "How do I create a file?".
+
+Remember: You are here to educate, not to judge students' existing knowledge.
 
 ### No well-actually's
 
@@ -30,8 +32,7 @@ A well-actually happens when someone says something that's almost - but not enti
 
 Subtle-isms are small things that make others feel uncomfortable, things that we all sometimes do by mistake. For example, saying "It's so easy my grandmother could do it" is a subtle-ism. Like the other three social rules, this one is often accidentally broken. Like the other three, it's not a big deal to mess up – you just apologize and move on.
 
-The above two sections come from Hacker School User's Manual which is a highly recommended resource for teaching.
-(Related comic strip).
+<blockquote>The above two sections come from [Hacker School User's Manual](https://www.hackerschool.com/manual) which is a highly recommended resource for teaching.</blockquote>
 
 ## Learn from mistakes
 
