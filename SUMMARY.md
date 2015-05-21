@@ -1,3 +1,3 @@
 # Summary
 
-* [Philosophy and Approach](chapter1.md)
+* [Philosophy and Approach](philosophy_and_approach.md)
