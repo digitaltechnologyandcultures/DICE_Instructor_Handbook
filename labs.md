@@ -108,7 +108,7 @@ We're sure you can explain what needs to be done and instruct them with your wor
 
 ## Show them how they can teach themselves
 
-Attendees will only spend 8 hours or so with you, but they will have to spend many many many more hours teaching themselves. Fortunately, you can make it easier for them!
+Students only get so many hours with us, but they will have to spend many more hours teaching themselves. Fortunately, you can make it easier for them!
 
 Make them Google stuff - do not give immediate answers just to make things go faster. It doesn't matter if you are going faster or slower -- what matters is whether they're going to fall in love with it or not.
 
