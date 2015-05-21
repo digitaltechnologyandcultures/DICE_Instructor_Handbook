@@ -10,11 +10,11 @@ At all times, you need to be super careful about the words you use.
 
 ### No jargon
 
-It's hard, but possible. Don't use words and technical terminology that kids wouldn't understand.
+It's hard, but possible. Don't use words and technical terminology that students many not fully understand. Remember that it's your job to educate students in these terms and help them grow, so when you do use technical jargon, be consistent and ready to explain. 
 
 ### Don't say "it's easy" or "just..."
 
-For your learners it may be the hardest thing they've ever done. Telling them that "it's easy" is not cool. Saying "just…" suggests that it's simple and they're failing if they find it hard to understand.
+For your learners this may be the hardest thing they've ever done. Telling them that "it's easy" is not cool. Saying "just…" suggests that it's simple and they're failing if they find it hard to understand.
 
 ### No feigning surprise
 
