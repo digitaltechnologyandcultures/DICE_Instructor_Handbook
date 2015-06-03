@@ -2,6 +2,24 @@
 
 Lab time is when we get to directly interact in-person with students. During labs, we don't have a lot of time to consider our words or actions, so it's important to be prepared to help students in a friendly and open way. Often, we don't realize the impact our words and actions can have, or how they can be differently interpreted, especially when we are discussing concepts we are so familiar with.
 
+## Lab Obligations
+
+Each instructor in WATS is required to attend one lab session per week, per course. If you are teaching one course, then you will attend one lab session per week. If you are teaching two courses, then you will attend two lab sessions per week.
+
+You will work out your lab schedule with the Director of WATS prior to the start of the quarter, and that schedule should remain as consistent as possible to insure coverage in each lab session. **If you need to miss your scheduled lab, communicate that to the Director of WATS in order to work out a replacement or alternative coverage.**
+
+During lab you will assist students on projects and coursework. You will work with all of the WATS students, not just those in your course. You should attempt to answer any questions you can, and don't be afraid to refer questions to other instructors if that is a better solution.
+
+Some students will show up to just work on their coursework, as a way to discipline themselves in their studies. Others will come in with specific questions and leave as soon as you answer them. This is all fine.
+
+## Grading Labs
+
+Students must attend one lab per course per month. That means if they are enrolled in two courses, they must come to lab twice each month of the quarter. (A total of six appearances in lab.)
+
+When you come to lab you should bring a device or notebook to note who attends. Or, if you prefer, you may enter directly into Canvas. (But in general instructors don't need computers in lab, and you should be wary of using grading in Canvas around large groups of students. We must insure privacy for student grades.)
+
+## Lab Tips
+
 The tips below are adapted from the [Django Girls Coaching Manual](http://coach.djangogirls.org/tips/index.html). They echo policies and practice used at many different tech teaching schools, hackathons, and boot camps. 
 
 ## Words
