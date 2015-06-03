@@ -22,4 +22,22 @@ On Mondays you will perform the following course maintenance tasks:
     * Grades should be completed by Wednesday at the latest.
 
 ## Tuesday through Saturday
-The rest of the week has fewer structured deliverables that must be met. 
+The rest of the week has fewer structured deliverables that must be met. These tasks repeat in smaller cycles throughout the week.
+
+* Complete grading.
+    * Grading should be completed by Wednesday morning each week. Many of our assignments build on the previous assignment, so it's crucial that students receive prompt feedback on their work.
+* Respond to student issues/requests.
+    * You should strive for a 24-hour turnaround on any student request. If the request will take longer than 24 hours to fulfill, then you should respond to the student and let them know an expected timeline for a complete response.
+    * Encourage students to screenshare, live chat, or even call on the phone to work through issues. The more issues we can solve remotely, the better it is for everyone.
+    * For complex issues, or recurring issues, encourage students to meet with you during lab times.
+* Create helpful additional courseware/demos/tutorials.
+    * Video demos and walkthroughs are incredibly valuable to students. When you have question that is being asked repeatedly, or which requires a more textured explanation, do not be bashful about doing a little screencast video demonstration to help teach students.
+    * Upload your video in MP4 format to any server and notify the WATS Director to add that video to the Youtube channel.
+    * Videos will be added to the Seattle University Web Development Channel on Youtube promptly and made available to your students in the course.
+    * Once a video is made available, you should notify your students, linking or embedding the video into your course pages.
+* Attend your scheduled lab sessions.
+    * Each instructor of a WATS course is obligated to attend one lab session per week per course. (If you are teaching two courses, then you will attend two labs per week.)
+    * Lab sessions are open and do not require you to prepare a lecture or demo.
+    * You should be prepared to answer questions from any web development students. 
+
+Additional tasks will creep in, and some weeks there may be an additional need to attend a meeting or discussion. Those events will be communicated with sufficient planning time, and as much as possible we will work around your schedule to accommodate you.
