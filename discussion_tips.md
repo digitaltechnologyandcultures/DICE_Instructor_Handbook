@@ -22,3 +22,6 @@ If a student posts an erroneous fact or statement in a discussion, here are some
 
 ## Avoid "well, actually..."
 
+A "well, actually..." happens when somebody corrects a minor inaccuracy, and it's especially annoying when the correction bears little relevance on the topic at hand. In cases of small misapprehensions or mis-statements, it's always good to give the student the benefit of the doubt. They have mis-typed or mis-spoken, but it might not warrant a full-blown correction as described above. 
+
+Use your best judgement as you work with students. Only provide public corrections when the misinformation could be detrimental to other students understanding. All other issues can be discussed in private and in a way that is compassionate and thoughtful towards the student's well-being.
