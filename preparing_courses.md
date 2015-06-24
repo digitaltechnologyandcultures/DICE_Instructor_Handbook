@@ -19,6 +19,8 @@ You will be presented with a drop-down menu. Select "Copy a Canvas Course" and s
 
 ![Copy Course Tool](img/copyCourse.png)
 
+Select the Master copy of the course you are teaching and then select "All Content". Also be sure to select the "Adjust events and due dates" checkbox.
+
 ## Step Two: Invite the Support Team
 For some courses it may be beneficial to have observers or helpers who can assist you with different tasks. Be sure to invite these people using the `+ People` button on the People page of the course.
 
