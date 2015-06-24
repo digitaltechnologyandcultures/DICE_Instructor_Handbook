@@ -11,6 +11,8 @@ To copy the master course into your course, complete the following steps:
 
 First, Go to the Settings page in the course
 
+![Canvas Settings Page](img/settings_page.png)
+
 Then, Click the link in the upper right that says "Import Course Content"
 
 You will be presented with a drop-down menu. Select "Copy a Canvas Course"
