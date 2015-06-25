@@ -26,4 +26,9 @@ Your Assignment Comments should contextualize the overall work the student has h
 
 Github is a valuable tool to us throughout the program. Most assignments in the Production Courses are handed in via Github, which gives us a valuable insight into the process a student has gone through to complete an assignment.
 
-You should be reviewing their code on Github when they turn it in. 
+You should be reviewing their code on Github when they turn it in. Think of this as a code review like you would do for any project you're working on, and use the same guidelines we always use for code reviews:
+
+* Offer helpful corrections where there are errors
+* Offer suggestions for improvement at both large and small scales
+* Fill in gaps of knowledge indicated by the code (don't just demand specific changes)
+
