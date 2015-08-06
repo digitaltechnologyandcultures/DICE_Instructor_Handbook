@@ -7,3 +7,4 @@
 * [Giving Feedback](giving_feedback.md)
 * [Tips for Enhancing Discussions](discussion_tips.md)
 * [Grading](grading.md)
+* [Support](support.md)
