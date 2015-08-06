@@ -1,6 +1,6 @@
 # Preparing Courses
 
-When you get into your course for the first time, you will see an empty course shell. Canvas will encourage you to get building your course quickly. For WATS courses, we teach from common syllabi, so every course is a copy of the master version of the course. In order to prepare your course for students, you will need to copy the master version of the course into your new course, then you'll need to complete an audit checklist.
+When you get into your course for the first time, you will see an empty course shell. The Canvas LMS will encourage you to get building your course quickly. For WATS courses, we teach from common syllabi, so every course is a copy of the master version of the course. In order to prepare your course for students, you will need to copy the master version of the course into your new course, then you'll need to complete an audit checklist.
 
 It's very important to be conscientious about looking for issues in the course before you publish it for student access. Although you can always fix issues that are noticed later (and you're expected to fix issues and notify the program director whenever they come up; see below), it's best to avoid issues in the first place. Encountering broken content or bad information in a course can ruin the experience for our students.
 
