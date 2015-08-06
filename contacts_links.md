@@ -12,4 +12,3 @@ Almost all official SU resources will use your SU email and/or username and pass
 ## Links
 * [SU Online](https://suonline.seattleu.edu/) - Access to grading, pay information, and many other useful screens. (Login with your username, not your full email address.)
 * [Canvas LMS](https://seattleu.instructure.com) - This is the course environment for SU courses. You will use this site often during your teaching.
-* 
