@@ -8,3 +8,4 @@
 * [Tips for Enhancing Discussions](discussion_tips.md)
 * [Grading](grading.md)
 * [Support](support.md)
+* [Contacts and Links](contacts_links.md)
