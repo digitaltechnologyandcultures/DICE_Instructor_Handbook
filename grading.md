@@ -29,10 +29,18 @@ It's important to grade in a timely manner. Students rely on grades to gauge the
 
 You should also consider the way your grading rhythm affects students. Especially when students are struggling, it can be very damaging to fall behind in grading and then send a student a string of low graded assignments. Students will always react better to finding out about bad grades sooner rather than later. And giving students more time to react to low grades makes it much easier to work with them to improve those grades.
 
-## Revisions and Late Assignments
+## Late Assignments
 For the most part, we aim to have a system that is tolerant enough of the regular fluctuations of adult life to allow for some flexibility on late assignments. Given the technical nature of our courses, it's not unusual for somebody to have very good intentions, but to get stuck over a weekend before a deadline on a very small matter that they can quickly clear up with a brief chat with the instructor on Monday. In these cases, and other reasonable cases, you are encouraged to be as generous as possible when considering late work. 
 
 Although we want to teach our students to be timely and responsible, we also do not want to create artificial penalties for late work, especially when there is a reasonable explanation for the tardiness. However, we also do not want our students to fall behind. Our courses are only 10 weeks long, and students who fall behind can quickly find themselves under water.
 
 **If you notice a student is not keeping up with work, contact the student and NCS Student Support staff as soon as possible.**
+
+## Revisions
+In many cases, allowing students to revise work is a very beneficial thing. In the world of web development, no work is ever finished, and we are not allowed to stop trying just because we don't get something right the first time. In cases where students know they are having troubles, you're encouraged to get them to turn in an assignment on time and then revise it in the following days.
+
+The material we teach often seems easy to us because we have been doing it for so long, but always remember that every single thing we use to make websites is actually very difficult to grasp and work with for a complete novice. At one point, we were all in that place. And part of how we've come so far is by trying and trying again.
+
+The Canvas LMS will allow you to alter grades after you have submitted them. Be aware that grades are sent to the student as soon as you assign them, so everytime you assign or change a grade, the student will get a notification. It's always good to provide an additional comment on the assignment when you change a grade for any reason. (It's generally bad to revise a grade downward without some noteworthy circumstances--cheating, plagiarism, etc.)
+
 
