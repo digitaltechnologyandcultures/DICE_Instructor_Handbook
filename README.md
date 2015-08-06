@@ -14,6 +14,7 @@ The Instructor Handbook covers the following topics for professors, adjuncts, an
 * Tips for enhancing discussions
 * Grading practice and policy
 * Facilitating labs
+* Support available for students and instructors
 
 ## Credits
 
