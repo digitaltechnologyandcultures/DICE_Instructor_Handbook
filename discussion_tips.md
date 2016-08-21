@@ -17,7 +17,7 @@ Sometimes students post incorrect or misleading information. If this is done mal
 If a student posts an erroneous fact or statement in a discussion, here are some tips for responding:
 
 * Try to understand why the student made the mistake. Is it an easy mistake to make? What precisely don't they understand? In order to correct the mistake, you must first try to understand what mistake they made and why they made it.
-* Couch your correction in some language that acknowledges what the student did right in their response. If there are accurate portions of the response, call those out and praise those. 
+* Frame your corrections in language that acknowledges what the student did right in their response. If there are accurate portions of the response, call those out and praise those. 
 * Provide a correction and a link to read more. Don't feel the need to make your correction incredibly verbose. Again, the point is not to make it clear HOW wrong the student was, simply to correct an inaccuracy so that misinformation does not continue to spread.
 
 ## Avoid "well, actually..."
