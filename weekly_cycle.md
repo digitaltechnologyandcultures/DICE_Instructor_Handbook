@@ -36,7 +36,7 @@ The rest of the week has fewer structured deliverables that must be met. These t
     * Videos will be added to the Seattle University Web Development Channel on Youtube promptly and made available to your students in the course.
     * Once a video is made available, you should notify your students, linking or embedding the video into your course pages.
 * Attend your scheduled lab sessions.
-    * Each instructor of a WATS course is obligated to attend one lab session per week per course. (If you are teaching two courses, then you will attend two labs per week.)
+    * Each instructor of a WATS course is obligated to attend two lab sessions per week.
     * Lab sessions are open and do not require you to prepare a lecture or demo.
     * You should be prepared to answer questions from any web development students. 
 
