@@ -4,6 +4,9 @@ We use [Slack](http://suwebdev.slack.com) to facilitate real-time, persistent ch
 
 Slack has a very good set of documentation. Please visit the [Slack Help Pages](https://get.slack.help/hc/en-us/categories/200111606-Using-Slack) to learn more about all of the things mentioned below. Click the links below for direct links into the Slack Help Pages referring to the features being discussed.
 
+##Joining Slack
+You can join the [SU Webdev Slack](http://suwebdev.slack.com) with your @seattleu.edu account. Follow the instructions on the sign-up page closely (scroll down to find the link to sign-in with an SU account).
+
 ##Instructor channel
 Be sure to join #instructors when you are invited. This is a private channel where instructors are able to talk.
 
