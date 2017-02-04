@@ -12,7 +12,7 @@ On Mondays you will perform the following course maintenance tasks:
         students can revisit your welcome video if they choose.
     * Copy the current Module's link and description into the highlighted "Current Week" area.
 * Record an introductory video for the week and post it in the "Current Week" area of the course homepage.
-    * These videos should be 5 minutes or less.
+    * These videos should be 5 minutes or less. (A tutorial for one approach to making these videos is available on the SU Webdev Youtube channel. [Click here to watch it.](https://www.youtube.com/watch?v=4xehP91_bZU))
     * Offer encouraging words based on the previous week's work. Be sure to mention any leftover items from the previous week.
     * Describe the content of the upcoming week, highlighting required readings, the assignment and the discussion for this week.
     * Mention any other details, such as upcoming university deadlines, Meetups, or due dates for larger projects in the course.
