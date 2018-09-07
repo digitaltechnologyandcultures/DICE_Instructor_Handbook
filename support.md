@@ -1,3 +1,4 @@
+[Home](http://milesccoleman.com/DICE_Instructor_Handbook/)
 # Support for Instructors
 As instructors in WATS, you enjoy the support of the SU School of New and Continuing Studies staff and systems. In turn, those services and individuals can direct you to an even larger community of support around the SU campus. Take a moment to learn about some of the useful support services and professionals who can help you with your teaching work.
 
