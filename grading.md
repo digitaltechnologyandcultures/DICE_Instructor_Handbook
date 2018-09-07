@@ -35,5 +35,9 @@ In many cases, allowing students to revise work is a very beneficial thing. With
 
 The Canvas LMS will allow you to alter grades after you have submitted them. Be aware that grades are sent to the student as soon as you assign them, so everytime you assign or change a grade, the student will get a notification. It's always good to provide an additional comment on the assignment when you change a grade for any reason. It is also a good idea to "mute" a particualr assignment until you have finalized your grading for that assignment. 
 
+## Academic Misconduct
 If you suspect palagarism, or some other form of academic misconduct, please notify the program director immediately. 
+
+## Submitting Final Grades
+At the end of the term you are expected to submit grades via the Seattle University website. Find instructions [here](https://www.seattleu.edu/registrar/resources-for-faculty-and-staff/grading-information/). 
 
