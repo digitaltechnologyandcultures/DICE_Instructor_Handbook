@@ -5,40 +5,28 @@ Each course is organized as ten (10) Modules. Each Module addresses a specific t
 
 In order to maintain forward momentum, and to develop a keen sense of community, it is helpful to be proactive and communicative so students are kept aware that they are part of a group moving through this material together. You can help students keep up and keep in touch by reaching out regularly so that communication becomes a familiar practice and expectation rather than an exception.
 
-## Monday
-On Mondays you will perform the following course maintenance tasks:
+## Weekly Videos
+Every week you will have a brief overview video that walks students through that week's assignments, frames readings, et cetera. 
 
-* Rotate the "Current Week" section on the homepage
-    * Move the previous week's welcome video down into the list of Modules so 
-        students can revisit your welcome video if they choose.
-    * Copy the current Module's link and description into the highlighted "Current Week" area.
-* Record an introductory video for the week and post it in the "Current Week" area of the course homepage.
-    * These videos should be 5 minutes or less. (A tutorial for one approach to making these videos is available on the SU Webdev Youtube channel. [Click here to watch it.](https://www.youtube.com/watch?v=4xehP91_bZU))
+* Record an introductory video for the week and post it to the appropriate week's "overview page" (e.g., "Week 2"). 
+    * These videos should be approximately 5 minutes. (A tutorial for one approach to making these videos is available on the SU Webdev Youtube channel. [Click here to watch it.](https://www.youtube.com/watch?v=4xehP91_bZU))
     * Offer encouraging words based on the previous week's work. Be sure to mention any leftover items from the previous week.
     * Describe the content of the upcoming week, highlighting required readings, the assignment and the discussion for this week.
     * Mention any other details, such as upcoming university deadlines, Meetups, or due dates for larger projects in the course.
     * Be upbeat and encouraging, but also acknowledge when content may be difficult.
     * Be human! Let students get to know you through these weekly introductions. Show your enthusiasm for the material and the work they are doing.
-* Begin grading. 
-    * Grades should be completed by Wednesday at the latest.
 
-## Tuesday through Saturday
-The rest of the week has fewer structured deliverables that must be met. These tasks repeat in smaller cycles throughout the week.
+## Grading
+Both in completely online and hybrid formats, which lean heavily on the feedback process to enrichen, bolster, and support the learning process, reliable, consistent, and effortful feedback and adminstration is required. 
 
-* Complete grading.
-    * Grading should be completed by Wednesday morning each week. Many of our assignments build on the previous assignment, so it's crucial that students receive prompt feedback on their work.
-* Respond to student issues/requests.
-    * You should strive for a 24-hour turnaround on any student request. If the request will take longer than 24 hours to fulfill, then you should respond to the student and let them know an expected timeline for a complete response.
-    * Encourage students to screenshare, live chat, or even call on the phone to work through issues. The more issues we can solve remotely, the better it is for everyone.
-    * For complex issues, or recurring issues, encourage students to meet with you during lab times.
-* Create helpful additional courseware/demos/tutorials.
-    * Video demos and walkthroughs are incredibly valuable to students. When you have question that is being asked repeatedly, or which requires a more textured explanation, do not be bashful about doing a little screencast video demonstration to help teach students.
-    * Upload your video in MP4 format to any server and notify the WATS Director to add that video to the Youtube channel.
-    * Videos will be added to the Seattle University Web Development Channel on Youtube promptly and made available to your students in the course.
-    * Once a video is made available, you should notify your students, linking or embedding the video into your course pages.
-* Attend your scheduled lab sessions.
-    * Each instructor of a WATS course is obligated to attend two lab sessions per week.
-    * Lab sessions are open and do not require you to prepare a lecture or demo.
-    * You should be prepared to answer questions from any web development students. 
+* Students, ideally, should never have to wait longer than three days to get their grades/feedback. 
+* Instructors are required to log their grades in the course website "gradebook." No exceptions. 
+* Students' graded work should be turned in via the course website assignments window. No exceptions. 
+* Whenever possible, students should be turning in their work in "durable" formats. (Example: A .png file of an infographic is the durable media format, whereas a link to the infographic somewhere on the web is not. A .py file is a durable format of a Python script. A .docx is a durable format of a blog entry. The idea is to be able to "go back" and retrieve that media in the future.) 
+* All grading should employ a rubric, which breaks out the grading criteria for a given assignment into component parts and makes clear to students the weights and values for those different components. No exceptions. 
 
-Additional tasks will creep in, and some weeks there may be an additional need to attend a meeting or discussion. Those events will be communicated with sufficient planning time, and as much as possible we will work around your schedule to accommodate you.
+## Office Hours and Student Communication 
+Instructors are required to hold one office hour a week, per course. These hours should be scheduled just before, or just after, your normal scheduled course time. For online courses, there are less structured office hours (meaning they occur on a per-meeting basis, scheduled with individual students). For both cases, instructors are asked to be available to students via Slack, Canvas, and Email.
+
+* Responses to student inquiries, ideally will not take longer than a few hours, during normal business hours.
+* Instructors are required to be on campus for office hours associated with a hybrid format course. 
