@@ -51,7 +51,7 @@ IMPORTANT: Under no circumstances are you to give evaluative feedback, grade inf
 ## Step Six: Welcome Video & Message
 Once you have the course prepped, you should create a welcome video that gives the students an overview of the course objectives, assignments, and schedule. Teach them how to use the course website and familiarize them with an explanation of what they can expect from week to week. Post it at the top of the Home page as a bold link: "Start Here." 
 
-As well as posting a video, you should send students a welcome message via Seattle University email. You can locate student emails from "My SU" --> "Class Roster" --> "Email" column in course roster. MAKE SURE TO LIST STUDENTS AS BCC, NOT CC. Also BCC the DICE Program Director on this email. 
+As well as posting a video, you should send students a welcome message via Seattle University email. You can locate student emails from 'My SU' --> "Class Roster" --> "Email" column in course roster. MAKE SURE TO LIST STUDENTS AS BCC, NOT CC. Also BCC the DICE Program Director on this email. 
 
 In your welcome email, introduce yourself, provide the Canvas course link, a quick overview of what they should have completed the first week, a link to your course's Slack channel, and (if applicable) a schedule of all face-to-face meetings for the term. 
 
