@@ -31,6 +31,9 @@ Instructors are required to hold one office hour a week, per course. These hours
 * Responses to student inquiries, ideally, will not take longer than a few hours, during normal business hours.
 * Instructors are required to be on campus for office hours associated with a hybrid format course. 
 
+## Roster Checks
+Sometime near the start of the quarter you will recieve an email notification that your "Roster Check" is due. Roster checks are a means by which to compare attendance in your class (Canvas activity in the case of online courses) against your roster. If a student has not logged into the Canvas course, or has not come to the first face-to-face session, you should follow up with an email to that student. If they indicate that they are dropping the course, or you recieve no response, you should represent this in your roster check. [This can save a forgettful student thousands of dollars at the end of the term when they realize that they never formally dropped the course.] 
+
 ## Starfish
 All programs in the School of New and Continuing Studies make use of Starfish a student success tracking system. Periodically throughout the quarter you will receive an email reminder to navigate to MySU and to complete a Starfish report. In these reports you can give students "Kudos" for good work, or raise "flags" for missing/late work, et cetera.
 
