@@ -30,3 +30,8 @@ Instructors are required to hold one office hour a week, per course. These hours
 
 * Responses to student inquiries, ideally, will not take longer than a few hours, during normal business hours.
 * Instructors are required to be on campus for office hours associated with a hybrid format course. 
+
+## Starfish
+All programs in the School of New and Continuing Studies make use of Starfish a student success tracking system. Periodically throughout the quarter you will receive an email reminder to navigate to MySU and to complete a Starfish report. In these reports you can give students "Kudos" for good work, or raise "flags" for missing/late work, et cetera.
+
+Keep in mind that when you report issues through Starfish, the student receives a notification as well as NCS and DICE staff (including the DICE Program Director and the Student Success Specialist). Any and all messaging here should be directed to the student in a warm and encouraging manner. 
