@@ -1,6 +1,3 @@
-DICE Instructor Handbook
-=======
-
 Welcome to the Instructor Handbook for the Digital Technology and Cultures (DICE) program at Seattle University. This book provides guidelines and sets expectations for people teaching courses as a part of the DICE program. 
 
 ## What is covered in this handbook?
@@ -16,7 +13,7 @@ The Instructor Handbook covers the following topics for professors, adjuncts, an
 * [Facilitating labs](labs.md)
 * [Support available for students and instructors](support.md)
 * [Contacts and useful links](contacts_links.md)
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 ## Credits
 
 This handbook is based in part on the following guides and manuals:
