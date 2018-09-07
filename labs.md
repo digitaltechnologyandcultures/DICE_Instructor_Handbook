@@ -1,3 +1,4 @@
+[Home](http://milesccoleman.com/DICE_Instructor_Handbook/)
 # Facilitating Labs
 
 Lab time is when we get to directly interact in-person with students. During labs, we don't have a lot of time to consider our words or actions, so it's important to be prepared to help students in a friendly and open way. Often, we don't realize the impact our words and actions can have, or how they can be differently interpreted, especially when we are discussing concepts we are so familiar with.
