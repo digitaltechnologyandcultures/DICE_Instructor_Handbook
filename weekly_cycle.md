@@ -28,5 +28,5 @@ Both in completely online and hybrid formats, which lean heavily on the feedback
 ## Office Hours and Student Communication 
 Instructors are required to hold one office hour a week, per course. These hours should be scheduled just before, or just after, your normal scheduled course time. For online courses, there are less structured office hours (meaning they occur on a per-meeting basis, scheduled with individual students). For both cases, instructors are asked to be available to students via Slack, Canvas, and Email.
 
-* Responses to student inquiries, ideally will not take longer than a few hours, during normal business hours.
+* Responses to student inquiries, ideally, will not take longer than a few hours, during normal business hours.
 * Instructors are required to be on campus for office hours associated with a hybrid format course. 
