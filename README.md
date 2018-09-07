@@ -21,6 +21,7 @@ The Instructor Handbook covers the following topics for professors, adjuncts, an
 
 This handbook is based in part on the following guides and manuals:
 
+* [WATS Instructor Manual] (https://legacy.gitbook.com/book/shawnr/wats-instructor-handbook/details)
 * [Django Girls Coaching Manual](https://www.gitbook.com/book/djangogirls/django-girls-coaching-manual/)
 * [Hacker School User's Manual](https://www.hackerschool.com/manual)
 * [Rails Bridge Teacher Training](http://curriculum.railsbridge.org/workshop/more_teacher_training)
