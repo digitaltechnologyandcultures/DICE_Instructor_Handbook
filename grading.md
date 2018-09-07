@@ -1,3 +1,4 @@
+[Home](http://milesccoleman.com/DICE_Instructor_Handbook/)
 # Grading
 
 Grading is a crucial part of teaching a course. Students must understand how well they achieved the learning outcomes for each assignment, and the grade is one of the primary methods for an instructor to convey that information to a student.
