@@ -7,7 +7,8 @@ It's very important to be conscientious about looking for issues in the course b
 
 **Please Note**: The Course Prep process should happen **1-2 weeks before the quarter starts**. If there are issues completing any of the preparation steps, please contact the DICE Program Director.
 
-## Step One: Copy the Course (ONLY FOR INSTRUCTORS WHO HAVE DEVELOPED THE ORIGINAL CONTENT)
+## Step One: Copy the Course 
+**(ONLY FOR INSTRUCTORS WHO HAVE DEVELOPED THE ORIGINAL CONTENT)** The program director will populate your course in all other cases. 
 To copy the master course into your course, complete the following steps:
 
 First, Go to the Settings page in the course
