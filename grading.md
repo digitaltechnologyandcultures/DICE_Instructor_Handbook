@@ -23,7 +23,7 @@ You should also consider the way your grading rhythm affects students. Especiall
 
 ## Late Assignments
 
-For the most part, we aim to have a system that is tolerant enough of the regular fluctuations of adult life to allow for some flexibility on late assignments. Given the technical nature of our courses, it's not unusual for somebody to have very good intentions, but to get stuck over a weekend before a deadline on a very small matter that they can quickly clear up with a brief chat with the instructor on Monday. In these cases, and other reasonable cases, you are encouraged to be as generous as possible when considering late work.
+For the most part, we aim to have a system that is tolerant enough of the regular fluctuations of adult life to allow for some flexibility on late assignments. In reasonable cases, you are encouraged to be as generous as possible when considering late work.
 
 Although we want to teach our students to be timely and responsible, we also do not want to create artificial penalties for late work, especially when there is a reasonable explanation for the tardiness. However, we also do not want our students to fall behind. Our courses are only 10 weeks long, and students who fall behind can quickly find themselves under water.
 
@@ -31,9 +31,9 @@ Although we want to teach our students to be timely and responsible, we also do 
 
 ## Revisions
 
-In many cases, allowing students to revise work is a very beneficial thing. In the world of web development, no work is ever finished, and we are not allowed to stop trying just because we don't get something right the first time. In cases where students know they are having troubles, you're encouraged to get them to turn in an assignment on time and then revise it in the following days.
+In many cases, allowing students to revise work is a very beneficial thing. With regard to writing, and producing media, no work is ever finished, and we are not allowed to stop trying just because we don't get something right the first time. In cases where students know they are having troubles, you're encouraged to get them to turn in an assignment on time and then revise it in the following days. Many courses have rough draft components of assignments built in. When considering whether or not to offer a revision, use your best judgement. Keep in mind that student learning and growth are our chief concern. 
 
-The material we teach often seems easy to us because we have been doing it for so long, but always remember that every single thing we use to make websites is actually very difficult to grasp and work with for a complete novice. At one point, we were all in that place. And part of how we've come so far is by trying and trying again.
+The Canvas LMS will allow you to alter grades after you have submitted them. Be aware that grades are sent to the student as soon as you assign them, so everytime you assign or change a grade, the student will get a notification. It's always good to provide an additional comment on the assignment when you change a grade for any reason. It is also a good idea to "mute" a particualr assignment until you have finalized your grading for that assignment. 
 
-The Canvas LMS will allow you to alter grades after you have submitted them. Be aware that grades are sent to the student as soon as you assign them, so everytime you assign or change a grade, the student will get a notification. It's always good to provide an additional comment on the assignment when you change a grade for any reason. \(It's generally bad to revise a grade downward without some noteworthy circumstances--cheating, plagiarism, etc.\)
+If you suspect palagarism, or some other form of academic misconduct, please notify the program director immediately. 
 
