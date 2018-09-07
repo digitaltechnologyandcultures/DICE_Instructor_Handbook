@@ -1,12 +1,12 @@
 # Preparing Courses
 
-When you get into your course for the first time, you will see an empty course shell. The Canvas LMS will encourage you to get building your course quickly. For WATS courses, we teach from common syllabi, so every course is a copy of the master version of the course. In order to prepare your course for students, you will need to copy the master version of the course into your new course, then you'll need to complete an audit checklist.
+When you get into your course for the first time, you will see an empty course shell. If this is your first time teaching, you should ask the program director to populate this empty course with the appropriate course content. In order to prepare your course for students, you will need to make sure that the appropriate content is populated into the course. Then, you'll need to complete an audit checklist.
 
 It's very important to be conscientious about looking for issues in the course before you publish it for student access. Although you can always fix issues that are noticed later (and you're expected to fix issues and notify the program director whenever they come up; see below), it's best to avoid issues in the first place. Encountering broken content or bad information in a course can ruin the experience for our students.
 
-**Please Note**: The Course Prep process should happen **1-2 weeks before the quarter starts**. If there are issues completing any of the preparation steps, please contact the WATS Program Director.
+**Please Note**: The Course Prep process should happen **1-2 weeks before the quarter starts**. If there are issues completing any of the preparation steps, please contact the DICE Program Director.
 
-## Step One: Copy the Course
+## Step One: Copy the Course (ONLY FOR INSTRUCTORS WHO HAVE DEVELOPED THE ORIGINAL CONTENT)
 To copy the master course into your course, complete the following steps:
 
 First, Go to the Settings page in the course
@@ -24,12 +24,13 @@ Select the Master copy of the course you are teaching and then select "All Conte
 ## Step Two: Invite the Support Team
 For some courses it may be beneficial to have observers or helpers who can assist you with different tasks. Be sure to invite these people using the `+ People` button on the People page of the course.
 
-If this is the first course you're teaching for WATS, you must invite the WATS Program Director into your course as a Teacher.
+If this is the first course you're teaching for DICE, you must invite the DICE Program Director into your course as a Teacher.
 
 ## Step Three: Pre-Course Checklist
 Complete the following checklist every time you copy a course into a new instance.
 
-* Open the Assignments page and review the due dates for all assignments. Assignments should be due on the Sunday of each week at 11:59pm. Adjust any incorrect due dates.
+* Open the Assignments page and review the due dates for all assignments. Adjust due dates to appropriately track along with the current term's start and end dates. 
+* Update the instructor information (e.g., name, office hourse, email). DICE Instructors are required to give at least two hours of office hours a week. These hours should be schedule just before, or just after, your course period. 
 * Review the Home page and verify that all of the links go to the proper Introduction page.
 * Open the Modules page and click through every piece of content in the course using the "Next" button. On each page, verify the following:
     * Check every link on the page to verify it works. (We recommend using a link checker extension in your web browser. [Check My Links](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf/related?hl=en-GB) is a good one for Chrome.) 
@@ -42,11 +43,13 @@ Write up any issues you have found. In the case of broken links, list the old li
 If you've completed your work on the course, Publish it! The Publish button is on the Home page of the course. Once you click Publish, students can access the course pages. If your course is NOT published, then students cannot access it.
 
 ## Step Five: Welcome Video & Message
-Once you have the course prepped, you should create a welcome video for Week 0 just like you would for every other week. Post it at the top of the Home page like you normally would. In this video, you should discuss the significant parts of the Week 0: About This Course module. This module is crucial because it is basically the syllabus for the course.
+Once you have the course prepped, you should create a welcome video that gives the students an overview of the course objectives, assignments, and schedule. Teach them how to use the course website and familiarize them with an explanation of what they can expect from week to week. Post it at the top of the Home page as a bold link: "Start Here." 
 
-As well as posting a video, you should send students a welcome message through Canvas letting them know that the course is open and ready for them.
+As well as posting a video, you should send students a welcome message via Seattle University email. You can locate student emails from "My SU" --> "Class Roster" --> "Email" column in course roster. MAKE SURE TO LIST STUDENTS AS BCC, NOT CC. Also BCC the DICE Program Director on this email. 
 
-This step is really the same as your normal weekly video and email. The Canvas message is crucial because it's the only way you can get a link to your specific course in front of your students. This helps them find the online course and engage more effectively.
+In your welcome email, introduce yourself, provide the Canvas course link, a quick overview of what they should have completed the first week, and (if applicable) a schedule of all face-to-face meetings for the term. 
+
+Note: You will repeat a simliar process for every week thereafter, just without the welcome email component. 
 
 ## Step Six: Sync with Program Director
 Once you've got your course up and running, send an email to the Program Director describing how the process went and any concerns you have with the course. Let the Program Director know that the students have been alerted and the course is published.
