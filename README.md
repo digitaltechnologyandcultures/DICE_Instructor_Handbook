@@ -10,7 +10,7 @@ The Instructor Handbook covers the following topics for professors, adjuncts, an
 * [Providing feedback on student work](giving_feedback.md)
 * [Tips for enhancing discussions](discussion_tips.md)
 * [Grading practice and policy](grading.md)
-* [Facilitating labs](labs.md)
+* [Face-to-face class sessions and labs](labs.md)
 * [Support available for students and instructors](support.md)
 * [Contacts and useful links](contacts_links.md)
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
