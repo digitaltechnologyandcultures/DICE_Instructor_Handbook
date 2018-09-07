@@ -7,8 +7,6 @@ One of the primary reasons to reach out to the broader DICE, NCS, and SU communi
 
 Any questions you have about student support can be directed to Suki Kwon, the NCS Student Success Specialist. You may email her at [kwonsu@seattleu.edu](mailto:kwonsu@seattleu.edu). Suki is a longtime student support professional who can both provide you guidance if you have questions about talking or working with a student, and who can work directly with the student to guide them to support services all around campus. 
 
-In addition to our professional staff, SU faculty is able to use the Starfish system to help track issues. The Starfish system allows you to register an alert if students fail to participate in class, if their work is not up to par, or if there are any other issues. When you report issues through Starfish, the student receives a notification as well as NCS and DICE staff (including the DICE Program Director and the Student Success Specialist).
-
 ## Instructor Support
 Instructors are required to complete a basic online training through the SU Center for Digital Learning and Instruction (CDLI). This training is required for state authorization compliance, and it is a valuable introduction to the practice of teaching courses in online and hybrid formats. 
 
