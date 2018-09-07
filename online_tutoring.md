@@ -1,3 +1,4 @@
+[Home](http://milesccoleman.com/DICE_Instructor_Handbook/)
 #Facilitating Online Support
 
 We use [Slack](http://suwebdev.slack.com) to facilitate real-time, persistent chat among all students and instructors. This is a highly beneficial tool, and through Slack we can offer high levels of support to our students. Please make the most of Slack as you teach for us, and feel free to bring up any ideas about how we can further improve our Slack experience with the Director or larger team.
