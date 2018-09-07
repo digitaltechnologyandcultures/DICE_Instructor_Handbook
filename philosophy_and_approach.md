@@ -1,6 +1,6 @@
 # Philosophy and Approach
 
-The DICE program is designed to cultivate analytical thinking and artful practice within the realm of emerging media. As such, pedagogically, the program emphasizes a "flipped" model, wherein students are given content via the web, and then asked to apply content in an apprentice model that emphasizes coaching, guidance, and constant feedback. The program values: 
+The DICE program is designed to cultivate analytical thinking and artful practice within the realm of emerging media. As such, pedagogically, the program emphasizes a "flipped" model, wherein students are given content via the web, and then asked to apply content in an apprentice model that emphasizes coaching, guidance, and constant feedback. With respect to its faculty, the program values: 
 
 * Thoughtful, engaging, content that inspires people to generate (and answer) their own questions. 
 * Timely, useful feedback which helps get people from "here" to "there." 
