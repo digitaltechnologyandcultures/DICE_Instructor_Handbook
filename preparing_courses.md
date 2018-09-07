@@ -43,14 +43,19 @@ Write up any issues you have found. In the case of broken links, list the old li
 ## Step Four: Publish!
 If you've completed your work on the course, Publish it! The Publish button is on the Home page of the course. Once you click Publish, students can access the course pages. If your course is NOT published, then students cannot access it.
 
-## Step Five: Welcome Video & Message
+## Step Five: Sign Up for, and Create a Slack "Channel"
+In DICE we use Slack as a central communication hub. To use it, you will need to go to [SU DICE Slack Team](https://dtac-program.slack.com). You can sign-up directly with your Seattle University email. Once you have signed up for the Slack Team, create a channel for your course. See instructions [here](https://get.slack.help/hc/en-us/articles/201402297-Create-a-channel). Your channel should be named in accordance to your course code and term (e.g., DICE_4020_Fall_2018). 
+
+IMPORTANT: Under no circumstances are you to give evaluative feedback, grade information, or to discuss personally identifiable information via Slack. Slack is only for student discussions, and for ease of access to instructors for guidance. Grades, and any other [FERPA](https://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html) protected information should be given only via Canvas, and only directly to the student for whom that information is attached. 
+
+## Step Six: Welcome Video & Message
 Once you have the course prepped, you should create a welcome video that gives the students an overview of the course objectives, assignments, and schedule. Teach them how to use the course website and familiarize them with an explanation of what they can expect from week to week. Post it at the top of the Home page as a bold link: "Start Here." 
 
 As well as posting a video, you should send students a welcome message via Seattle University email. You can locate student emails from "My SU" --> "Class Roster" --> "Email" column in course roster. MAKE SURE TO LIST STUDENTS AS BCC, NOT CC. Also BCC the DICE Program Director on this email. 
 
-In your welcome email, introduce yourself, provide the Canvas course link, a quick overview of what they should have completed the first week, and (if applicable) a schedule of all face-to-face meetings for the term. 
+In your welcome email, introduce yourself, provide the Canvas course link, a quick overview of what they should have completed the first week, a link to your course's Slack channel, and (if applicable) a schedule of all face-to-face meetings for the term. 
 
 Note: You will repeat a simliar process for every week thereafter, just without the welcome email component. 
 
-## Step Six: Sync with Program Director
+## Step Seven: Sync with Program Director
 Once you've got your course up and running, send an email to the Program Director describing how the process went and any concerns you have with the course. Let the Program Director know that the students have been alerted and the course is published.
