@@ -1,4 +1,4 @@
-[Home](http://milesccoleman.com/DICE_Instructor_Handbook/)
+[Home](https://digitaltechnologyandcultures.github.io/DICE_Instructor_Handbook/)
 # Useful Contacts and Links
 
 During your time teaching at SU, there are some useful contacts and links that you will make use of over and over. To help you get into your work, review the information below.
