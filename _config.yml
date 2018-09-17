@@ -2,6 +2,4 @@ theme: jekyll-theme-cayman
 title: DICE Instructor's Handbook
 description: Handbook for Instructors of Digital Technology and Cultures at Seattle University 
 show_downloads: false
-baseurl: "" # does not include hostname
-github:
-  is_project_page: false
+
