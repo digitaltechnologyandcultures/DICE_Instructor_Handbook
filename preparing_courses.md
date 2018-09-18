@@ -1,4 +1,4 @@
-[Home](http://milesccoleman.com/DICE_Instructor_Handbook/)
+[Home](https://digitaltechnologyandcultures.github.io/DICE_Instructor_Handbook/)
 # Preparing Courses
 
 When you get into your course for the first time, you will see an empty course shell. If this is your first time teaching, you should ask the program director to populate this empty course with the appropriate course content. In order to prepare your course for students, you will need to make sure that the appropriate content is populated into the course. Then, you'll need to complete an audit checklist.
