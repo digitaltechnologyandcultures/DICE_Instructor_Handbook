@@ -1,4 +1,4 @@
-[Home](http://milesccoleman.com/DICE_Instructor_Handbook/)
+[Home](https://digitaltechnologyandcultures.github.io/DICE_Instructor_Handbook/)
 # The Weekly Cycle
 
 Each course is organized as ten (10) Modules. Each Module addresses a specific topic in the course, and the Modules build on each other. Just as the structure of the course follows a distinct pattern, the weekly process of running the course also follows a pattern.
