@@ -1,4 +1,4 @@
-[Home](http://milesccoleman.com/DICE_Instructor_Handbook/)
+[Home](https://digitaltechnologyandcultures.github.io/DICE_Instructor_Handbook/)
 # Discussion Tips
 
 Throughout the course students must participate in discussions. Each of the discussion prompts is unique. Some discussions require students to go out into the world and try something, or research some topic, then return to the discussion to share. Other prompts ask students to reflect on the work they've been doing, or the resources they have engaged with, and offer some commentary or reflection.
